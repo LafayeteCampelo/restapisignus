@@ -2,8 +2,9 @@
   "name": "restapisignus",
   "version": "1.0.0",
   "description": "rest api do aplicativo SIGNUS Mobile",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,13 +12,10 @@
     "url": "git+https://github.com/LafayeteCampelo/restapisignus.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lafayete G. Campelo Martins",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LafayeteCampelo/restapisignus/issues"
   },
-  "homepage": "https://github.com/LafayeteCampelo/restapisignus#readme",
-  "dependencies": {
-    "json-server": "^0.17.3"
-  }
+  "homepage": "https://github.com/LafayeteCampelo/restapisignus#readme"
 }
