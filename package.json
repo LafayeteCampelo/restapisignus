@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/LafayeteCampelo/restapisignus/issues"
   },
-  "homepage": "https://github.com/LafayeteCampelo/restapisignus#readme"
+  "homepage": "https://github.com/LafayeteCampelo/restapisignus#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
