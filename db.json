@@ -1,14 +1,13 @@
 {
-    "users":[
-        {
-            "id": 1,
-            "name": "Lafayete",
-            "email": "lafayetecampelo@gmail.com",
-            "xp": 25,
-            "highscore": 300
-          }
-      
-    ],
+  "users":[
+    {
+      "id": 1,
+      "name": "Lafayete",
+      "email": "lafayetecampelo@gmail.com",
+      "xp": 25,
+      "highscore": 300
+    }
+  ],
 
   "categories": [
     {
