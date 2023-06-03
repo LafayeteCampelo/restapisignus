@@ -9,6 +9,15 @@
     }
   ],
 
+  "words":[
+    {
+      "id": 1,
+      "word": "teste",
+      "translation": "test",
+      "categories": "numbers"
+    }
+  ],
+
   "categories": [
     {
       "id": 1,
