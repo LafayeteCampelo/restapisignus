@@ -18,6 +18,25 @@
     }
   ],
 
+  "highscores":[
+    {
+      "id": 1,
+      "highscore": "1000",
+      "game": "corrida infinita",
+      "name": "nome1",
+      "email": "lafayetecampelo@gmail.com",
+      "phrase": "se inscreva ..."
+    },
+    {
+      "id": 2,
+      "highscore": "100",
+      "game": "corrida infinita",
+      "name": "nome2",
+      "email": "lafayetecampelo@gmail.com",
+      "phrase": "se inscreva ..."
+    }
+  ],
+
   "categories": [
     {
       "id": 1,
