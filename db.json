@@ -9,6 +9,49 @@
     }
   ],
 
+  "talhoescr":[
+    {
+      "id": 1,
+      "PKTalhoesCR": "Lafayete",
+      "CodTalhoesCRSR": "lafayetecampelo@gmail.com",
+      "CodInform_Local": 25,
+      "CodCadastro": 300,
+      "CodEPTCR": "",
+      "Empresa": "",
+      "Unidade": "",
+      "Fazenda": "",
+      "Talhao": "",
+      "Subtalhao": "",
+      "Ciclo": 1,
+      "Rotacao": 1,
+      "EspEL": 2.5,
+      "EspEP": 3.0,
+      "DataIniRot": "",
+      "AreaTalh": 30.0,
+      "AreaSubtalh": 25.0,
+      "Especie": "",
+      "MatGen": "",
+      "Propag": "",
+      "SoloClasse": "",
+      "UnidMan": "",
+      "LatitudeLocG": 10,
+      "LatitudeLocM": 10,
+      "LatitudeLocS": 2.5,
+      "LongitudeLocG": 10,
+      "LongitudeLocM": 10,
+      "LongitudeLocS": 2.5,
+      "UTMN": 25,
+      "UTME": 25,
+      "Datum": "",
+      "Zona": "",
+      "Lat": "",
+      "Lon": "",
+      "Observacoes": "",
+      "Visible": true,
+      "Imagem": "" 
+    }
+  ],
+
   "words":[
     {
       "id": 1,
