@@ -11,9 +11,10 @@
 
   "talhoescr":[
     {
-      "id": 1,
-      "PKTalhoesCR": "Lafayete",
-      "CodTalhoesCRSR": "lafayetecampelo@gmail.com",
+      "Id": 1,
+      "IdDispositivo": "",
+      "PKTalhoesCR": "1",
+      "CodTalhoesCRSR": "",
       "CodInform_Local": 25,
       "CodCadastro": 300,
       "CodEPTCR": "",
