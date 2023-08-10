@@ -186,6 +186,7 @@
  {
   "PKResFinaisDRIS": 1,
   "CodInform_Local": 22122,
+  "CodEPTCR": "SIN_SM_19_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.345,
@@ -251,6 +252,7 @@
  {
   "PKResFinaisDRIS": 2,
   "CodInform_Local": 22123,
+  "CodEPTCR": "SIN_SM_20_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.381,
@@ -316,6 +318,7 @@
  {
   "PKResFinaisDRIS": 3,
   "CodInform_Local": 22124,
+  "CodEPTCR": "SIN_SM_21_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.416,
@@ -381,6 +384,7 @@
  {
   "PKResFinaisDRIS": 4,
   "CodInform_Local": 22125,
+  "CodEPTCR": "SIN_SM_22_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.403,
@@ -446,6 +450,7 @@
  {
   "PKResFinaisDRIS": 5,
   "CodInform_Local": 22126,
+  "CodEPTCR": "SIN_SM_23_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/16\/2022",
   "ID_a": 1.395,
@@ -511,6 +516,7 @@
  {
   "PKResFinaisDRIS": 6,
   "CodInform_Local": 22127,
+  "CodEPTCR": "SIN_SM_24_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.381,
@@ -576,6 +582,7 @@
  {
   "PKResFinaisDRIS": 7,
   "CodInform_Local": 22128,
+  "CodEPTCR": "SIN_SM_25_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.534,
@@ -641,6 +648,7 @@
  {
   "PKResFinaisDRIS": 8,
   "CodInform_Local": 22129,
+  "CodEPTCR": "SIN_SM_26_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.296,
@@ -706,6 +714,7 @@
  {
   "PKResFinaisDRIS": 9,
   "CodInform_Local": 22130,
+  "CodEPTCR": "SIN_SM_27_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.282,
@@ -771,6 +780,7 @@
  {
   "PKResFinaisDRIS": 10,
   "CodInform_Local": 22131,
+  "CodEPTCR": "SIN_SM_28_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.282,
@@ -836,6 +846,7 @@
  {
   "PKResFinaisDRIS": 11,
   "CodInform_Local": 22132,
+  "CodEPTCR": "SIN_SM_29_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.301,
@@ -901,6 +912,7 @@
  {
   "PKResFinaisDRIS": 12,
   "CodInform_Local": 22133,
+  "CodEPTCR": "SIN_SM_30_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.362,
@@ -966,6 +978,7 @@
  {
   "PKResFinaisDRIS": 13,
   "CodInform_Local": 22134,
+  "CodEPTCR": "SIN_SM_31_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/16\/2022",
   "ID_a": 1.381,
@@ -1031,6 +1044,7 @@
  {
   "PKResFinaisDRIS": 14,
   "CodInform_Local": 22135,
+  "CodEPTCR": "SIN_SM_32_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/16\/2022",
   "ID_a": 1.362,
@@ -1096,6 +1110,7 @@
  {
   "PKResFinaisDRIS": 15,
   "CodInform_Local": 22136,
+  "CodEPTCR": "SIN_SM_33_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/16\/2022",
   "ID_a": 1.375,
@@ -1161,6 +1176,7 @@
  {
   "PKResFinaisDRIS": 16,
   "CodInform_Local": 22137,
+  "CodEPTCR": "SIN_SM_34_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/16\/2022",
   "ID_a": 1.34,
@@ -1226,6 +1242,7 @@
  {
   "PKResFinaisDRIS": 17,
   "CodInform_Local": 22138,
+  "CodEPTCR": "SIN_SM_35_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.337,
@@ -1291,6 +1308,7 @@
  {
   "PKResFinaisDRIS": 18,
   "CodInform_Local": 22139,
+  "CodEPTCR": "SIN_SM_36_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.469,
@@ -1356,6 +1374,7 @@
  {
   "PKResFinaisDRIS": 19,
   "CodInform_Local": 22140,
+  "CodEPTCR": "SIN_SM_37_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/11\/2022",
   "ID_a": 1.288,
@@ -1421,6 +1440,7 @@
  {
   "PKResFinaisDRIS": 20,
   "CodInform_Local": 22141,
+  "CodEPTCR": "SIN_SM_38_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.252,
@@ -1486,6 +1506,7 @@
  {
   "PKResFinaisDRIS": 21,
   "CodInform_Local": 22142,
+  "CodEPTCR": "SIN_SM_39_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/10\/2022",
   "ID_a": 1.247,
@@ -1551,6 +1572,7 @@
  {
   "PKResFinaisDRIS": 22,
   "CodInform_Local": 22143,
+  "CodEPTCR": "SIN_SM_40_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/10\/2022",
   "ID_a": 1.274,
@@ -1616,6 +1638,7 @@
  {
   "PKResFinaisDRIS": 23,
   "CodInform_Local": 22144,
+  "CodEPTCR": "SIN_SM_41_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/10\/2022",
   "ID_a": 1.247,
@@ -1681,6 +1704,7 @@
  {
   "PKResFinaisDRIS": 24,
   "CodInform_Local": 22145,
+  "CodEPTCR": "SIN_SM_42_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/10\/2022",
   "ID_a": 1.307,
@@ -1746,6 +1770,7 @@
  {
   "PKResFinaisDRIS": 25,
   "CodInform_Local": 22146,
+  "CodEPTCR": "SIN_SM_43_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.31,
@@ -1811,6 +1836,7 @@
  {
   "PKResFinaisDRIS": 26,
   "CodInform_Local": 22147,
+  "CodEPTCR": "SIN_SM_44_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.307,
@@ -1876,6 +1902,7 @@
  {
   "PKResFinaisDRIS": 27,
   "CodInform_Local": 22148,
+  "CodEPTCR": "SIN_SM_45_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/13\/2022",
   "ID_a": 1.31,
@@ -1941,6 +1968,7 @@
  {
   "PKResFinaisDRIS": 28,
   "CodInform_Local": 22149,
+  "CodEPTCR": "SIN_SM_46_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/13\/2022",
   "ID_a": 1.545,
@@ -2006,6 +2034,7 @@
  {
   "PKResFinaisDRIS": 29,
   "CodInform_Local": 22150,
+  "CodEPTCR": "SIN_SM_47_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/13\/2022",
   "ID_a": 1.48,
@@ -2071,6 +2100,7 @@
  {
   "PKResFinaisDRIS": 30,
   "CodInform_Local": 22151,
+  "CodEPTCR": "SIN_SM_48_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.474,
@@ -2136,6 +2166,7 @@
  {
   "PKResFinaisDRIS": 31,
   "CodInform_Local": 22152,
+  "CodEPTCR": "SIN_SM_49_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.323,
@@ -2201,6 +2232,7 @@
  {
   "PKResFinaisDRIS": 32,
   "CodInform_Local": 22153,
+  "CodEPTCR": "SIN_SM_50_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/10\/2022",
   "ID_a": 1.321,
@@ -2266,6 +2298,7 @@
  {
   "PKResFinaisDRIS": 33,
   "CodInform_Local": 22154,
+  "CodEPTCR": "SIN_SM_51_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/10\/2022",
   "ID_a": 1.249,
@@ -2331,6 +2364,7 @@
  {
   "PKResFinaisDRIS": 34,
   "CodInform_Local": 22155,
+  "CodEPTCR": "SIN_SM_52_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/10\/2022",
   "ID_a": 1.244,
@@ -2396,6 +2430,7 @@
  {
   "PKResFinaisDRIS": 35,
   "CodInform_Local": 22156,
+  "CodEPTCR": "SIN_SM_384_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/19\/2022",
   "ID_a": 1.362,
@@ -2461,6 +2496,7 @@
  {
   "PKResFinaisDRIS": 36,
   "CodInform_Local": 22157,
+  "CodEPTCR": "SIN_SM_385_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/19\/2022",
   "ID_a": 1.419,
@@ -2526,6 +2562,7 @@
  {
   "PKResFinaisDRIS": 37,
   "CodInform_Local": 22158,
+  "CodEPTCR": "SIN_SM_386_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/19\/2022",
   "ID_a": 1.269,
@@ -2591,6 +2628,7 @@
  {
   "PKResFinaisDRIS": 38,
   "CodInform_Local": 22159,
+  "CodEPTCR": "SIN_SM_387_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/19\/2022",
   "ID_a": 1.436,
@@ -2656,6 +2694,7 @@
  {
   "PKResFinaisDRIS": 39,
   "CodInform_Local": 22160,
+  "CodEPTCR": "SIN_SM_388_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/18\/2022",
   "ID_a": 1.425,
@@ -2721,6 +2760,7 @@
  {
   "PKResFinaisDRIS": 40,
   "CodInform_Local": 22161,
+  "CodEPTCR": "SIN_SM_389_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/18\/2022",
   "ID_a": 1.444,
@@ -2786,6 +2826,7 @@
  {
   "PKResFinaisDRIS": 41,
   "CodInform_Local": 22162,
+  "CodEPTCR": "SIN_SM_390_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/18\/2022",
   "ID_a": 1.411,
@@ -2851,6 +2892,7 @@
  {
   "PKResFinaisDRIS": 42,
   "CodInform_Local": 22163,
+  "CodEPTCR": "SIN_SM_391_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/18\/2022",
   "ID_a": 1.477,
@@ -2916,6 +2958,7 @@
  {
   "PKResFinaisDRIS": 43,
   "CodInform_Local": 22164,
+  "CodEPTCR": "SIN_SM_392_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/18\/2022",
   "ID_a": 1.458,
@@ -2981,6 +3024,7 @@
  {
   "PKResFinaisDRIS": 44,
   "CodInform_Local": 22165,
+  "CodEPTCR": "SIN_SM_393_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/18\/2022",
   "ID_a": 1.455,
@@ -3046,6 +3090,7 @@
  {
   "PKResFinaisDRIS": 45,
   "CodInform_Local": 22166,
+  "CodEPTCR": "SIN_SM_394_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/18\/2022",
   "ID_a": 1.488,
@@ -3111,6 +3156,7 @@
  {
   "PKResFinaisDRIS": 46,
   "CodInform_Local": 22167,
+  "CodEPTCR": "SIN_SM_395_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/18\/2022",
   "ID_a": 1.482,
@@ -3176,6 +3222,7 @@
  {
   "PKResFinaisDRIS": 47,
   "CodInform_Local": 22168,
+  "CodEPTCR": "SIN_SM_396_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/18\/2022",
   "ID_a": 1.48,
@@ -3241,6 +3288,7 @@
  {
   "PKResFinaisDRIS": 48,
   "CodInform_Local": 22169,
+  "CodEPTCR": "SIN_SM_397_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/17\/2022",
   "ID_a": 1.507,
@@ -3306,6 +3354,7 @@
  {
   "PKResFinaisDRIS": 49,
   "CodInform_Local": 22170,
+  "CodEPTCR": "SIN_SM_398_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/17\/2022",
   "ID_a": 1.51,
@@ -3371,6 +3420,7 @@
  {
   "PKResFinaisDRIS": 50,
   "CodInform_Local": 22171,
+  "CodEPTCR": "SIN_SM_399_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/17\/2022",
   "ID_a": 1.433,
@@ -3436,6 +3486,7 @@
  {
   "PKResFinaisDRIS": 51,
   "CodInform_Local": 22172,
+  "CodEPTCR": "SIN_SM_400_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/17\/2022",
   "ID_a": 1.518,
@@ -3501,6 +3552,7 @@
  {
   "PKResFinaisDRIS": 52,
   "CodInform_Local": 22173,
+  "CodEPTCR": "SIN_SM_401_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/17\/2022",
   "ID_a": 1.529,
@@ -3566,6 +3618,7 @@
  {
   "PKResFinaisDRIS": 53,
   "CodInform_Local": 22174,
+  "CodEPTCR": "SIN_SM_402_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/17\/2022",
   "ID_a": 1.518,
@@ -3631,6 +3684,7 @@
  {
   "PKResFinaisDRIS": 54,
   "CodInform_Local": 22175,
+  "CodEPTCR": "SIN_SM_403_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/17\/2022",
   "ID_a": 1.534,
@@ -3696,6 +3750,7 @@
  {
   "PKResFinaisDRIS": 55,
   "CodInform_Local": 22176,
+  "CodEPTCR": "SIN_SM_404_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/17\/2022",
   "ID_a": 1.526,
@@ -3761,6 +3816,7 @@
  {
   "PKResFinaisDRIS": 56,
   "CodInform_Local": 22177,
+  "CodEPTCR": "SIN_SM_405_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/17\/2022",
   "ID_a": 1.534,
@@ -3826,6 +3882,7 @@
  {
   "PKResFinaisDRIS": 57,
   "CodInform_Local": 22178,
+  "CodEPTCR": "SIN_SM_406_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/16\/2022",
   "ID_a": 1.543,
@@ -3891,6 +3948,7 @@
  {
   "PKResFinaisDRIS": 58,
   "CodInform_Local": 22179,
+  "CodEPTCR": "SIN_SM_407_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/16\/2022",
   "ID_a": 1.548,
@@ -3956,6 +4014,7 @@
  {
   "PKResFinaisDRIS": 59,
   "CodInform_Local": 22180,
+  "CodEPTCR": "SIN_SM_408_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/16\/2022",
   "ID_a": 1.545,
@@ -4021,6 +4080,7 @@
  {
   "PKResFinaisDRIS": 60,
   "CodInform_Local": 22181,
+  "CodEPTCR": "SIN_SM_409_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/12\/2022",
   "ID_a": 1.425,
@@ -4086,6 +4146,7 @@
  {
   "PKResFinaisDRIS": 61,
   "CodInform_Local": 23752,
+  "CodEPTCR": "SIN_SM_53_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/23\/2022",
   "ID_a": 2.43,
@@ -4151,6 +4212,7 @@
  {
   "PKResFinaisDRIS": 62,
   "CodInform_Local": 23753,
+  "CodEPTCR": "SIN_SM_54_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/23\/2022",
   "ID_a": 2.474,
@@ -4216,6 +4278,7 @@
  {
   "PKResFinaisDRIS": 63,
   "CodInform_Local": 23754,
+  "CodEPTCR": "SIN_SM_55_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/20\/2022",
   "ID_a": 2.471,
@@ -4281,6 +4344,7 @@
  {
   "PKResFinaisDRIS": 64,
   "CodInform_Local": 23755,
+  "CodEPTCR": "SIN_SM_56_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/20\/2022",
   "ID_a": 2.427,
@@ -4346,6 +4410,7 @@
  {
   "PKResFinaisDRIS": 65,
   "CodInform_Local": 23756,
+  "CodEPTCR": "SIN_SM_57_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/09\/2022",
   "ID_a": 2.49,
@@ -4411,6 +4476,7 @@
  {
   "PKResFinaisDRIS": 66,
   "CodInform_Local": 23757,
+  "CodEPTCR": "SIN_SM_58_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/05\/2022",
   "ID_a": 2.452,
@@ -4476,6 +4542,7 @@
  {
   "PKResFinaisDRIS": 67,
   "CodInform_Local": 23758,
+  "CodEPTCR": "SIN_SM_59_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/05\/2022",
   "ID_a": 2.397,
@@ -4541,6 +4608,7 @@
  {
   "PKResFinaisDRIS": 68,
   "CodInform_Local": 23759,
+  "CodEPTCR": "SIN_SM_60_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/05\/2022",
   "ID_a": 2.449,
@@ -4606,6 +4674,7 @@
  {
   "PKResFinaisDRIS": 69,
   "CodInform_Local": 23760,
+  "CodEPTCR": "SIN_SM_61_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/05\/2022",
   "ID_a": 2.449,
@@ -4671,6 +4740,7 @@
  {
   "PKResFinaisDRIS": 70,
   "CodInform_Local": 23761,
+  "CodEPTCR": "SIN_SM_62_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/04\/2022",
   "ID_a": 2.43,
@@ -4736,6 +4806,7 @@
  {
   "PKResFinaisDRIS": 71,
   "CodInform_Local": 23762,
+  "CodEPTCR": "SIN_SM_63_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/06\/2022",
   "ID_a": 2.408,
@@ -4801,6 +4872,7 @@
  {
   "PKResFinaisDRIS": 72,
   "CodInform_Local": 23763,
+  "CodEPTCR": "SIN_SM_64_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/09\/2022",
   "ID_a": 2.469,
@@ -4866,6 +4938,7 @@
  {
   "PKResFinaisDRIS": 73,
   "CodInform_Local": 23764,
+  "CodEPTCR": "SIN_SM_65_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/20\/2022",
   "ID_a": 2.463,
@@ -4931,6 +5004,7 @@
  {
   "PKResFinaisDRIS": 74,
   "CodInform_Local": 23765,
+  "CodEPTCR": "SIN_SM_66_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/20\/2022",
   "ID_a": 2.4,
@@ -4996,6 +5070,7 @@
  {
   "PKResFinaisDRIS": 75,
   "CodInform_Local": 23766,
+  "CodEPTCR": "SIN_SM_67_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/23\/2022",
   "ID_a": 2.466,
@@ -5061,6 +5136,7 @@
  {
   "PKResFinaisDRIS": 76,
   "CodInform_Local": 23767,
+  "CodEPTCR": "SIN_SM_68_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/23\/2022",
   "ID_a": 2.458,
@@ -5126,6 +5202,7 @@
  {
   "PKResFinaisDRIS": 77,
   "CodInform_Local": 23768,
+  "CodEPTCR": "SIN_SM_69_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/23\/2022",
   "ID_a": 2.425,
@@ -5191,6 +5268,7 @@
  {
   "PKResFinaisDRIS": 78,
   "CodInform_Local": 23769,
+  "CodEPTCR": "SIN_SM_70_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/20\/2022",
   "ID_a": 2.458,
@@ -5256,6 +5334,7 @@
  {
   "PKResFinaisDRIS": 79,
   "CodInform_Local": 23770,
+  "CodEPTCR": "SIN_SM_71_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/20\/2022",
   "ID_a": 2.548,
@@ -5321,6 +5400,7 @@
  {
   "PKResFinaisDRIS": 80,
   "CodInform_Local": 23771,
+  "CodEPTCR": "SIN_SM_72_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/06\/2022",
   "ID_a": 2.493,
@@ -5386,6 +5466,7 @@
  {
   "PKResFinaisDRIS": 81,
   "CodInform_Local": 23772,
+  "CodEPTCR": "SIN_SM_73_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/06\/2022",
   "ID_a": 2.447,
@@ -5451,6 +5532,7 @@
  {
   "PKResFinaisDRIS": 82,
   "CodInform_Local": 23773,
+  "CodEPTCR": "SIN_SM_74_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/09\/2022",
   "ID_a": 2.501,
@@ -5516,6 +5598,7 @@
  {
   "PKResFinaisDRIS": 83,
   "CodInform_Local": 23774,
+  "CodEPTCR": "SIN_SM_75_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/20\/2022",
   "ID_a": 2.416,
@@ -5581,6 +5664,7 @@
  {
   "PKResFinaisDRIS": 84,
   "CodInform_Local": 23775,
+  "CodEPTCR": "SIN_SM_76_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/23\/2022",
   "ID_a": 2.458,
@@ -5646,6 +5730,7 @@
  {
   "PKResFinaisDRIS": 85,
   "CodInform_Local": 23776,
+  "CodEPTCR": "SIN_SM_77_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/23\/2022",
   "ID_a": 2.422,
@@ -5711,6 +5796,7 @@
  {
   "PKResFinaisDRIS": 86,
   "CodInform_Local": 23777,
+  "CodEPTCR": "SIN_SM_78_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/20\/2022",
   "ID_a": 2.416,
@@ -5776,6 +5862,7 @@
  {
   "PKResFinaisDRIS": 87,
   "CodInform_Local": 23778,
+  "CodEPTCR": "SIN_SM_79_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/09\/2022",
   "ID_a": 2.381,
@@ -5841,6 +5928,7 @@
  {
   "PKResFinaisDRIS": 88,
   "CodInform_Local": 23779,
+  "CodEPTCR": "SIN_NE_334_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.296,
@@ -5906,6 +5994,7 @@
  {
   "PKResFinaisDRIS": 89,
   "CodInform_Local": 23780,
+  "CodEPTCR": "SIN_NE_335_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.296,
@@ -5971,6 +6060,7 @@
  {
   "PKResFinaisDRIS": 90,
   "CodInform_Local": 23781,
+  "CodEPTCR": "SIN_NE_336_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.296,
@@ -6036,6 +6126,7 @@
  {
   "PKResFinaisDRIS": 91,
   "CodInform_Local": 23782,
+  "CodEPTCR": "SIN_NE_337_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.299,
@@ -6101,6 +6192,7 @@
  {
   "PKResFinaisDRIS": 92,
   "CodInform_Local": 23783,
+  "CodEPTCR": "SIN_NE_338_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.299,
@@ -6166,6 +6258,7 @@
  {
   "PKResFinaisDRIS": 93,
   "CodInform_Local": 23784,
+  "CodEPTCR": "SIN_NE_339_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.288,
@@ -6231,6 +6324,7 @@
  {
   "PKResFinaisDRIS": 94,
   "CodInform_Local": 23785,
+  "CodEPTCR": "SIN_NE_340_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.299,
@@ -6296,6 +6390,7 @@
  {
   "PKResFinaisDRIS": 95,
   "CodInform_Local": 23786,
+  "CodEPTCR": "SIN_NE_341_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.307,
@@ -6361,6 +6456,7 @@
  {
   "PKResFinaisDRIS": 96,
   "CodInform_Local": 23787,
+  "CodEPTCR": "SIN_NE_342_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "06\/01\/2022",
   "ID_a": 2.299,
@@ -6426,6 +6522,7 @@
  {
   "PKResFinaisDRIS": 97,
   "CodInform_Local": 23788,
+  "CodEPTCR": "SIN_NE_343_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.31,
@@ -6491,6 +6588,7 @@
  {
   "PKResFinaisDRIS": 98,
   "CodInform_Local": 23789,
+  "CodEPTCR": "SIN_TA_344_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.282,
@@ -6556,6 +6654,7 @@
  {
   "PKResFinaisDRIS": 99,
   "CodInform_Local": 23790,
+  "CodEPTCR": "SIN_TA_345_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.348,
@@ -6621,6 +6720,7 @@
  {
   "PKResFinaisDRIS": 100,
   "CodInform_Local": 23791,
+  "CodEPTCR": "SIN_TA_346_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.343,
@@ -6686,6 +6786,7 @@
  {
   "PKResFinaisDRIS": 101,
   "CodInform_Local": 23792,
+  "CodEPTCR": "SIN_TA_347_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.326,
@@ -6751,6 +6852,7 @@
  {
   "PKResFinaisDRIS": 102,
   "CodInform_Local": 23793,
+  "CodEPTCR": "SIN_TA_348_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.321,
@@ -6816,6 +6918,7 @@
  {
   "PKResFinaisDRIS": 103,
   "CodInform_Local": 23794,
+  "CodEPTCR": "SIN_NE_350_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "06\/01\/2022",
   "ID_a": 2.299,
@@ -6881,6 +6984,7 @@
  {
   "PKResFinaisDRIS": 104,
   "CodInform_Local": 23795,
+  "CodEPTCR": "SIN_NE_351_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.282,
@@ -6946,6 +7050,7 @@
  {
   "PKResFinaisDRIS": 105,
   "CodInform_Local": 23796,
+  "CodEPTCR": "SIN_NE_352_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/26\/2022",
   "ID_a": 2.304,
@@ -7011,6 +7116,7 @@
  {
   "PKResFinaisDRIS": 106,
   "CodInform_Local": 23797,
+  "CodEPTCR": "SIN_TA_353_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/25\/2022",
   "ID_a": 2.359,
@@ -7076,6 +7182,7 @@
  {
   "PKResFinaisDRIS": 107,
   "CodInform_Local": 23798,
+  "CodEPTCR": "SIN_TA_354_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/25\/2022",
   "ID_a": 2.37,
@@ -7141,6 +7248,7 @@
  {
   "PKResFinaisDRIS": 108,
   "CodInform_Local": 23799,
+  "CodEPTCR": "SIN_TA_355_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/25\/2022",
   "ID_a": 2.326,
@@ -7206,6 +7314,7 @@
  {
   "PKResFinaisDRIS": 109,
   "CodInform_Local": 23800,
+  "CodEPTCR": "SIN_NE_356_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/31\/2022",
   "ID_a": 2.293,
@@ -7271,6 +7380,7 @@
  {
   "PKResFinaisDRIS": 110,
   "CodInform_Local": 23801,
+  "CodEPTCR": "SIN_NE_357_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "06\/01\/2022",
   "ID_a": 2.288,
@@ -7336,6 +7446,7 @@
  {
   "PKResFinaisDRIS": 111,
   "CodInform_Local": 23802,
+  "CodEPTCR": "SIN_NE_358_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/25\/2022",
   "ID_a": 2.362,
@@ -7401,6 +7512,7 @@
  {
   "PKResFinaisDRIS": 112,
   "CodInform_Local": 23803,
+  "CodEPTCR": "SIN_TA_359_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/25\/2022",
   "ID_a": 2.378,
@@ -7466,6 +7578,7 @@
  {
   "PKResFinaisDRIS": 113,
   "CodInform_Local": 23804,
+  "CodEPTCR": "SIN_TA_360_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/25\/2022",
   "ID_a": 2.375,
@@ -7531,6 +7644,7 @@
  {
   "PKResFinaisDRIS": 114,
   "CodInform_Local": 23805,
+  "CodEPTCR": "SIN_NE_361_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/31\/2022",
   "ID_a": 2.28,
@@ -7596,6 +7710,7 @@
  {
   "PKResFinaisDRIS": 115,
   "CodInform_Local": 23806,
+  "CodEPTCR": "SIN_NE_362_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/31\/2022",
   "ID_a": 2.28,
@@ -7661,6 +7776,7 @@
  {
   "PKResFinaisDRIS": 116,
   "CodInform_Local": 23807,
+  "CodEPTCR": "SIN_NE_363_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.392,
@@ -7726,6 +7842,7 @@
  {
   "PKResFinaisDRIS": 117,
   "CodInform_Local": 23808,
+  "CodEPTCR": "SIN_TA_364_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.312,
@@ -7791,6 +7908,7 @@
  {
   "PKResFinaisDRIS": 118,
   "CodInform_Local": 23809,
+  "CodEPTCR": "SIN_TA_365_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.353,
@@ -7856,6 +7974,7 @@
  {
   "PKResFinaisDRIS": 119,
   "CodInform_Local": 23810,
+  "CodEPTCR": "SIN_NE_366_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/31\/2022",
   "ID_a": 2.277,
@@ -7921,6 +8040,7 @@
  {
   "PKResFinaisDRIS": 120,
   "CodInform_Local": 23811,
+  "CodEPTCR": "SIN_NE_367_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/31\/2022",
   "ID_a": 2.252,
@@ -7986,6 +8106,7 @@
  {
   "PKResFinaisDRIS": 121,
   "CodInform_Local": 23812,
+  "CodEPTCR": "SIN_TA_368_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.356,
@@ -8051,6 +8172,7 @@
  {
   "PKResFinaisDRIS": 122,
   "CodInform_Local": 23813,
+  "CodEPTCR": "SIN_TA_369_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.378,
@@ -8116,6 +8238,7 @@
  {
   "PKResFinaisDRIS": 123,
   "CodInform_Local": 23814,
+  "CodEPTCR": "SIN_NE_370_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.238,
@@ -8181,6 +8304,7 @@
  {
   "PKResFinaisDRIS": 124,
   "CodInform_Local": 23815,
+  "CodEPTCR": "SIN_NE_371_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/31\/2022",
   "ID_a": 2.238,
@@ -8246,6 +8370,7 @@
  {
   "PKResFinaisDRIS": 125,
   "CodInform_Local": 23816,
+  "CodEPTCR": "SIN_TA_372_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.386,
@@ -8311,6 +8436,7 @@
  {
   "PKResFinaisDRIS": 126,
   "CodInform_Local": 23817,
+  "CodEPTCR": "SIN_TA_373_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.408,
@@ -8376,6 +8502,7 @@
  {
   "PKResFinaisDRIS": 127,
   "CodInform_Local": 23818,
+  "CodEPTCR": "SIN_NE_374_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.269,
@@ -8441,6 +8568,7 @@
  {
   "PKResFinaisDRIS": 128,
   "CodInform_Local": 23819,
+  "CodEPTCR": "SIN_NE_375_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.236,
@@ -8506,6 +8634,7 @@
  {
   "PKResFinaisDRIS": 129,
   "CodInform_Local": 23820,
+  "CodEPTCR": "SIN_TA_376_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.408,
@@ -8571,6 +8700,7 @@
  {
   "PKResFinaisDRIS": 130,
   "CodInform_Local": 23821,
+  "CodEPTCR": "SIN_TA_377_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/24\/2022",
   "ID_a": 2.397,
@@ -8636,6 +8766,7 @@
  {
   "PKResFinaisDRIS": 131,
   "CodInform_Local": 23822,
+  "CodEPTCR": "SIN_NE_378_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/27\/2022",
   "ID_a": 2.26,
@@ -8701,6 +8832,7 @@
  {
   "PKResFinaisDRIS": 132,
   "CodInform_Local": 23823,
+  "CodEPTCR": "SIN_NE_379_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.249,
@@ -8766,6 +8898,7 @@
  {
   "PKResFinaisDRIS": 133,
   "CodInform_Local": 23824,
+  "CodEPTCR": "SIN_NE_380_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/27\/2022",
   "ID_a": 2.249,
@@ -8831,6 +8964,7 @@
  {
   "PKResFinaisDRIS": 134,
   "CodInform_Local": 23825,
+  "CodEPTCR": "SIN_NE_381_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/27\/2022",
   "ID_a": 2.247,
@@ -8896,6 +9030,7 @@
  {
   "PKResFinaisDRIS": 135,
   "CodInform_Local": 23826,
+  "CodEPTCR": "SIN_NE_382_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.288,
@@ -8961,6 +9096,7 @@
  {
   "PKResFinaisDRIS": 136,
   "CodInform_Local": 23827,
+  "CodEPTCR": "SIN_NE_383_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "05\/30\/2022",
   "ID_a": 2.288,
@@ -9026,6 +9162,7 @@
  {
   "PKResFinaisDRIS": 137,
   "CodInform_Local": 25139,
+  "CodEPTCR": "SIN_SMA_148_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.049,
@@ -9088,6 +9225,7 @@
  {
   "PKResFinaisDRIS": 138,
   "CodInform_Local": 25140,
+  "CodEPTCR": "SIN_SMA_149_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.063,
@@ -9150,6 +9288,7 @@
  {
   "PKResFinaisDRIS": 139,
   "CodInform_Local": 25141,
+  "CodEPTCR": "SIN_SMA_150_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.082,
@@ -9212,6 +9351,7 @@
  {
   "PKResFinaisDRIS": 140,
   "CodInform_Local": 25142,
+  "CodEPTCR": "SIN_SMA_151_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.033,
@@ -9274,6 +9414,7 @@
  {
   "PKResFinaisDRIS": 141,
   "CodInform_Local": 25143,
+  "CodEPTCR": "SIN_SMA_152_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.055,
@@ -9336,6 +9477,7 @@
  {
   "PKResFinaisDRIS": 142,
   "CodInform_Local": 25144,
+  "CodEPTCR": "SIN_SMA_153_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.036,
@@ -9398,6 +9540,7 @@
  {
   "PKResFinaisDRIS": 143,
   "CodInform_Local": 25145,
+  "CodEPTCR": "SIN_SMA_154_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.027,
@@ -9460,6 +9603,7 @@
  {
   "PKResFinaisDRIS": 144,
   "CodInform_Local": 25146,
+  "CodEPTCR": "SIN_SMA_155_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.066,
@@ -9522,6 +9666,7 @@
  {
   "PKResFinaisDRIS": 145,
   "CodInform_Local": 25147,
+  "CodEPTCR": "SIN_SMA_156_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.033,
@@ -9584,6 +9729,7 @@
  {
   "PKResFinaisDRIS": 146,
   "CodInform_Local": 25148,
+  "CodEPTCR": "SIN_SMA_157_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.047,
@@ -9646,6 +9792,7 @@
  {
   "PKResFinaisDRIS": 147,
   "CodInform_Local": 25149,
+  "CodEPTCR": "SIN_SMA_158_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/10\/2023",
   "ID_a": 1.063,
@@ -9708,6 +9855,7 @@
  {
   "PKResFinaisDRIS": 148,
   "CodInform_Local": 25150,
+  "CodEPTCR": "SIN_RO_159_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 1.055,
@@ -9770,6 +9918,7 @@
  {
   "PKResFinaisDRIS": 149,
   "CodInform_Local": 25151,
+  "CodEPTCR": "SIN_RO_160_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 0.978,
@@ -9828,6 +9977,7 @@
  {
   "PKResFinaisDRIS": 150,
   "CodInform_Local": 25152,
+  "CodEPTCR": "SIN_RO_161_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 1.038,
@@ -9890,6 +10040,7 @@
  {
   "PKResFinaisDRIS": 151,
   "CodInform_Local": 25153,
+  "CodEPTCR": "SIN_RO_162_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 1.063,
@@ -9952,6 +10103,7 @@
  {
   "PKResFinaisDRIS": 152,
   "CodInform_Local": 25154,
+  "CodEPTCR": "SIN_RO_163_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 1.071,
@@ -10014,6 +10166,7 @@
  {
   "PKResFinaisDRIS": 153,
   "CodInform_Local": 25155,
+  "CodEPTCR": "SIN_RO_164_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 1.068,
@@ -10076,6 +10229,7 @@
  {
   "PKResFinaisDRIS": 154,
   "CodInform_Local": 25156,
+  "CodEPTCR": "SIN_RO_169_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 1.074,
@@ -10138,6 +10292,7 @@
  {
   "PKResFinaisDRIS": 155,
   "CodInform_Local": 25157,
+  "CodEPTCR": "SIN_RO_173_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 1.093,
@@ -10200,6 +10355,7 @@
  {
   "PKResFinaisDRIS": 156,
   "CodInform_Local": 25158,
+  "CodEPTCR": "SIN_RO_174_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 1.096,
@@ -10262,6 +10418,7 @@
  {
   "PKResFinaisDRIS": 157,
   "CodInform_Local": 25159,
+  "CodEPTCR": "SIN_RO_178_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/11\/2023",
   "ID_a": 1.107,
@@ -10324,6 +10481,7 @@
  {
   "PKResFinaisDRIS": 158,
   "CodInform_Local": 25160,
+  "CodEPTCR": "SIN_RO_179_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.079,
@@ -10386,6 +10544,7 @@
  {
   "PKResFinaisDRIS": 159,
   "CodInform_Local": 25161,
+  "CodEPTCR": "SIN_RO_183_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.096,
@@ -10448,6 +10607,7 @@
  {
   "PKResFinaisDRIS": 160,
   "CodInform_Local": 25162,
+  "CodEPTCR": "SIN_SF_250_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/13\/2023",
   "ID_a": 1.145,
@@ -10510,6 +10670,7 @@
  {
   "PKResFinaisDRIS": 161,
   "CodInform_Local": 25163,
+  "CodEPTCR": "SIN_SF_251_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.142,
@@ -10572,6 +10733,7 @@
  {
   "PKResFinaisDRIS": 162,
   "CodInform_Local": 25164,
+  "CodEPTCR": "SIN_SF_252_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/13\/2023",
   "ID_a": 1.14,
@@ -10634,6 +10796,7 @@
  {
   "PKResFinaisDRIS": 163,
   "CodInform_Local": 25165,
+  "CodEPTCR": "SIN_SF_253_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/13\/2023",
   "ID_a": 1.137,
@@ -10696,6 +10859,7 @@
  {
   "PKResFinaisDRIS": 164,
   "CodInform_Local": 25166,
+  "CodEPTCR": "SIN_SF_254_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.164,
@@ -10758,6 +10922,7 @@
  {
   "PKResFinaisDRIS": 165,
   "CodInform_Local": 25167,
+  "CodEPTCR": "SIN_SF_255_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.153,
@@ -10820,6 +10985,7 @@
  {
   "PKResFinaisDRIS": 166,
   "CodInform_Local": 25168,
+  "CodEPTCR": "SIN_SF_256_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.156,
@@ -10882,6 +11048,7 @@
  {
   "PKResFinaisDRIS": 167,
   "CodInform_Local": 25169,
+  "CodEPTCR": "SIN_SF_257_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.151,
@@ -10944,6 +11111,7 @@
  {
   "PKResFinaisDRIS": 168,
   "CodInform_Local": 25170,
+  "CodEPTCR": "SIN_SF_258_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.148,
@@ -11006,6 +11174,7 @@
  {
   "PKResFinaisDRIS": 169,
   "CodInform_Local": 25171,
+  "CodEPTCR": "SIN_SF_259_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.145,
@@ -11068,6 +11237,7 @@
  {
   "PKResFinaisDRIS": 170,
   "CodInform_Local": 25172,
+  "CodEPTCR": "SIN_SF_260_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/12\/2023",
   "ID_a": 1.142,
@@ -11130,6 +11300,7 @@
  {
   "PKResFinaisDRIS": 171,
   "CodInform_Local": 25173,
+  "CodEPTCR": "SIN_NC_326_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/05\/2023",
   "ID_a": 0.945,
@@ -11188,6 +11359,7 @@
  {
   "PKResFinaisDRIS": 172,
   "CodInform_Local": 25174,
+  "CodEPTCR": "SIN_NC_327_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/05\/2023",
   "ID_a": 0.904,
@@ -11246,6 +11418,7 @@
  {
   "PKResFinaisDRIS": 173,
   "CodInform_Local": 25175,
+  "CodEPTCR": "SIN_NC_329_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/05\/2023",
   "ID_a": 0.997,
@@ -11304,6 +11477,7 @@
  {
   "PKResFinaisDRIS": 174,
   "CodInform_Local": 25176,
+  "CodEPTCR": "SIN_3R_438_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.11,
@@ -11366,6 +11540,7 @@
  {
   "PKResFinaisDRIS": 175,
   "CodInform_Local": 25177,
+  "CodEPTCR": "SIN_3R_440_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.173,
@@ -11428,6 +11603,7 @@
  {
   "PKResFinaisDRIS": 176,
   "CodInform_Local": 25178,
+  "CodEPTCR": "SIN_3R_441_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.162,
@@ -11490,6 +11666,7 @@
  {
   "PKResFinaisDRIS": 177,
   "CodInform_Local": 25179,
+  "CodEPTCR": "SIN_3R_442_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.159,
@@ -11552,6 +11729,7 @@
  {
   "PKResFinaisDRIS": 178,
   "CodInform_Local": 25180,
+  "CodEPTCR": "SIN_3R_443_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/03\/2023",
   "ID_a": 1.151,
@@ -11614,6 +11792,7 @@
  {
   "PKResFinaisDRIS": 179,
   "CodInform_Local": 25181,
+  "CodEPTCR": "SIN_3R_447_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/22\/2023",
   "ID_a": 1.364,
@@ -11676,6 +11855,7 @@
  {
   "PKResFinaisDRIS": 180,
   "CodInform_Local": 25182,
+  "CodEPTCR": "SIN_3R_448_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/22\/2023",
   "ID_a": 1.362,
@@ -11738,6 +11918,7 @@
  {
   "PKResFinaisDRIS": 181,
   "CodInform_Local": 25183,
+  "CodEPTCR": "SIN_3R_449_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.4,
@@ -11800,6 +11981,7 @@
  {
   "PKResFinaisDRIS": 182,
   "CodInform_Local": 25184,
+  "CodEPTCR": "SIN_3R_450_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.384,
@@ -11862,6 +12044,7 @@
  {
   "PKResFinaisDRIS": 183,
   "CodInform_Local": 25185,
+  "CodEPTCR": "SIN_3R_451_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.378,
@@ -11924,6 +12107,7 @@
  {
   "PKResFinaisDRIS": 184,
   "CodInform_Local": 25186,
+  "CodEPTCR": "SIN_3R_452_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.367,
@@ -11986,6 +12170,7 @@
  {
   "PKResFinaisDRIS": 185,
   "CodInform_Local": 25187,
+  "CodEPTCR": "SIN_3R_453_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.364,
@@ -12048,6 +12233,7 @@
  {
   "PKResFinaisDRIS": 186,
   "CodInform_Local": 25188,
+  "CodEPTCR": "SIN_3R_454_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/22\/2023",
   "ID_a": 1.318,
@@ -12110,6 +12296,7 @@
  {
   "PKResFinaisDRIS": 187,
   "CodInform_Local": 25189,
+  "CodEPTCR": "SIN_3R_455_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/22\/2023",
   "ID_a": 1.315,
@@ -12172,6 +12359,7 @@
  {
   "PKResFinaisDRIS": 188,
   "CodInform_Local": 25190,
+  "CodEPTCR": "SIN_3R_458_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/23\/2023",
   "ID_a": 1.06,
@@ -12234,6 +12422,7 @@
  {
   "PKResFinaisDRIS": 189,
   "CodInform_Local": 25191,
+  "CodEPTCR": "SIN_3R_459_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.121,
@@ -12296,6 +12485,7 @@
  {
   "PKResFinaisDRIS": 190,
   "CodInform_Local": 25192,
+  "CodEPTCR": "SIN_3R_461_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.145,
@@ -12358,6 +12548,7 @@
  {
   "PKResFinaisDRIS": 191,
   "CodInform_Local": 25193,
+  "CodEPTCR": "SIN_3R_462_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.112,
@@ -12420,6 +12611,7 @@
  {
   "PKResFinaisDRIS": 192,
   "CodInform_Local": 25194,
+  "CodEPTCR": "SIN_3R_463_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.107,
@@ -12482,6 +12674,7 @@
  {
   "PKResFinaisDRIS": 193,
   "CodInform_Local": 25195,
+  "CodEPTCR": "SIN_3R_464_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.104,
@@ -12544,6 +12737,7 @@
  {
   "PKResFinaisDRIS": 194,
   "CodInform_Local": 25196,
+  "CodEPTCR": "SIN_3R_465_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 0.962,
@@ -12602,6 +12796,7 @@
  {
   "PKResFinaisDRIS": 195,
   "CodInform_Local": 25197,
+  "CodEPTCR": "SIN_3R_466_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.184,
@@ -12664,6 +12859,7 @@
  {
   "PKResFinaisDRIS": 196,
   "CodInform_Local": 25198,
+  "CodEPTCR": "SIN_3R_467_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.181,
@@ -12726,6 +12922,7 @@
  {
   "PKResFinaisDRIS": 197,
   "CodInform_Local": 25199,
+  "CodEPTCR": "SIN_3R_469_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/03\/2023",
   "ID_a": 1.151,
@@ -12788,6 +12985,7 @@
  {
   "PKResFinaisDRIS": 198,
   "CodInform_Local": 25200,
+  "CodEPTCR": "SIN_3R_470_1_2_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/03\/2023",
   "ID_a": 1.197,
@@ -12850,6 +13048,7 @@
  {
   "PKResFinaisDRIS": 199,
   "CodInform_Local": 25201,
+  "CodEPTCR": "SIN_3R_471_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/23\/2023",
   "ID_a": 1.093,
@@ -12912,6 +13111,7 @@
  {
   "PKResFinaisDRIS": 200,
   "CodInform_Local": 25202,
+  "CodEPTCR": "SIN_3R_474_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/22\/2023",
   "ID_a": 1.29,
@@ -12974,6 +13174,7 @@
  {
   "PKResFinaisDRIS": 201,
   "CodInform_Local": 25203,
+  "CodEPTCR": "SIN_3R_475_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/24\/2023",
   "ID_a": 1.315,
@@ -13036,6 +13237,7 @@
  {
   "PKResFinaisDRIS": 202,
   "CodInform_Local": 25204,
+  "CodEPTCR": "SIN_3R_476_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/24\/2023",
   "ID_a": 1.31,
@@ -13098,6 +13300,7 @@
  {
   "PKResFinaisDRIS": 203,
   "CodInform_Local": 25205,
+  "CodEPTCR": "SIN_3R_477_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.342,
@@ -13160,6 +13363,7 @@
  {
   "PKResFinaisDRIS": 204,
   "CodInform_Local": 25206,
+  "CodEPTCR": "SIN_3R_478_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.329,
@@ -13222,6 +13426,7 @@
  {
   "PKResFinaisDRIS": 205,
   "CodInform_Local": 25207,
+  "CodEPTCR": "SIN_3R_479_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.326,
@@ -13284,6 +13489,7 @@
  {
   "PKResFinaisDRIS": 206,
   "CodInform_Local": 25208,
+  "CodEPTCR": "SIN_3R_480_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.326,
@@ -13346,6 +13552,7 @@
  {
   "PKResFinaisDRIS": 207,
   "CodInform_Local": 25209,
+  "CodEPTCR": "SIN_3R_481_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/24\/2023",
   "ID_a": 1.288,
@@ -13408,6 +13615,7 @@
  {
   "PKResFinaisDRIS": 208,
   "CodInform_Local": 25210,
+  "CodEPTCR": "SIN_3R_482_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/24\/2023",
   "ID_a": 1.285,
@@ -13470,6 +13678,7 @@
  {
   "PKResFinaisDRIS": 209,
   "CodInform_Local": 25211,
+  "CodEPTCR": "SIN_3R_483_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/24\/2023",
   "ID_a": 1.274,
@@ -13532,6 +13741,7 @@
  {
   "PKResFinaisDRIS": 210,
   "CodInform_Local": 25212,
+  "CodEPTCR": "SIN_3R_484_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/24\/2023",
   "ID_a": 0.964,
@@ -13590,6 +13800,7 @@
  {
   "PKResFinaisDRIS": 211,
   "CodInform_Local": 25213,
+  "CodEPTCR": "SIN_3R_485_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/23\/2023",
   "ID_a": 1.096,
@@ -13652,6 +13863,7 @@
  {
   "PKResFinaisDRIS": 212,
   "CodInform_Local": 25214,
+  "CodEPTCR": "SIN_3R_486_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/23\/2023",
   "ID_a": 1.099,
@@ -13714,6 +13926,7 @@
  {
   "PKResFinaisDRIS": 213,
   "CodInform_Local": 25215,
+  "CodEPTCR": "SIN_3R_487_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/03\/2023",
   "ID_a": 1.214,
@@ -13776,6 +13989,7 @@
  {
   "PKResFinaisDRIS": 214,
   "CodInform_Local": 25216,
+  "CodEPTCR": "SIN_3R_488_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/03\/2023",
   "ID_a": 1.195,
@@ -13838,6 +14052,7 @@
  {
   "PKResFinaisDRIS": 215,
   "CodInform_Local": 25217,
+  "CodEPTCR": "SIN_3R_489_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/03\/2023",
   "ID_a": 1.189,
@@ -13900,6 +14115,7 @@
  {
   "PKResFinaisDRIS": 216,
   "CodInform_Local": 25218,
+  "CodEPTCR": "SIN_3R_490_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.189,
@@ -13962,6 +14178,7 @@
  {
   "PKResFinaisDRIS": 217,
   "CodInform_Local": 25219,
+  "CodEPTCR": "SIN_3R_491_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/04\/2023",
   "ID_a": 1.184,
@@ -14024,6 +14241,7 @@
  {
   "PKResFinaisDRIS": 218,
   "CodInform_Local": 25220,
+  "CodEPTCR": "SIN_3R_495_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/03\/2023",
   "ID_a": 1.186,
@@ -14086,6 +14304,7 @@
  {
   "PKResFinaisDRIS": 219,
   "CodInform_Local": 25221,
+  "CodEPTCR": "SIN_3R_496_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "04\/03\/2023",
   "ID_a": 1.208,
@@ -14148,6 +14367,7 @@
  {
   "PKResFinaisDRIS": 220,
   "CodInform_Local": 25222,
+  "CodEPTCR": "SIN_3R_497_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/31\/2023",
   "ID_a": 1.211,
@@ -14210,6 +14430,7 @@
  {
   "PKResFinaisDRIS": 221,
   "CodInform_Local": 25223,
+  "CodEPTCR": "SIN_3R_498_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/31\/2023",
   "ID_a": 1.156,
@@ -14272,6 +14493,7 @@
  {
   "PKResFinaisDRIS": 222,
   "CodInform_Local": 25224,
+  "CodEPTCR": "SIN_3R_499_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/31\/2023",
   "ID_a": 1.367,
@@ -14334,6 +14556,7 @@
  {
   "PKResFinaisDRIS": 223,
   "CodInform_Local": 25225,
+  "CodEPTCR": "SIN_3R_501_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "02\/24\/2023",
   "ID_a": 1.268,
@@ -14396,6 +14619,7 @@
  {
   "PKResFinaisDRIS": 224,
   "CodInform_Local": 25226,
+  "CodEPTCR": "SIN_3R_502_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/14\/2023",
   "ID_a": 1.318,
@@ -14458,6 +14682,7 @@
  {
   "PKResFinaisDRIS": 225,
   "CodInform_Local": 25227,
+  "CodEPTCR": "SIN_3R_503_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/14\/2023",
   "ID_a": 1.312,
@@ -14520,6 +14745,7 @@
  {
   "PKResFinaisDRIS": 226,
   "CodInform_Local": 25228,
+  "CodEPTCR": "SIN_3R_504_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/14\/2023",
   "ID_a": 1.315,
@@ -14582,6 +14808,7 @@
  {
   "PKResFinaisDRIS": 227,
   "CodInform_Local": 25229,
+  "CodEPTCR": "SIN_3R_505_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/14\/2023",
   "ID_a": 1.332,
@@ -14644,6 +14871,7 @@
  {
   "PKResFinaisDRIS": 228,
   "CodInform_Local": 25230,
+  "CodEPTCR": "SIN_3R_506_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/09\/2023",
   "ID_a": 1.312,
@@ -14706,6 +14934,7 @@
  {
   "PKResFinaisDRIS": 229,
   "CodInform_Local": 25231,
+  "CodEPTCR": "SIN_3R_507_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/14\/2023",
   "ID_a": 1.164,
@@ -14768,6 +14997,7 @@
  {
   "PKResFinaisDRIS": 230,
   "CodInform_Local": 25232,
+  "CodEPTCR": "SIN_3R_508_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.31,
@@ -14830,6 +15060,7 @@
  {
   "PKResFinaisDRIS": 231,
   "CodInform_Local": 25233,
+  "CodEPTCR": "SIN_3R_509_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.307,
@@ -14892,6 +15123,7 @@
  {
   "PKResFinaisDRIS": 232,
   "CodInform_Local": 25234,
+  "CodEPTCR": "SIN_3R_510_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.307,
@@ -14954,6 +15186,7 @@
  {
   "PKResFinaisDRIS": 233,
   "CodInform_Local": 25235,
+  "CodEPTCR": "SIN_3R_511_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/14\/2023",
   "ID_a": 1.301,
@@ -15016,6 +15249,7 @@
  {
   "PKResFinaisDRIS": 234,
   "CodInform_Local": 25236,
+  "CodEPTCR": "SIN_3R_513_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/31\/2023",
   "ID_a": 1.345,
@@ -15078,6 +15312,7 @@
  {
   "PKResFinaisDRIS": 235,
   "CodInform_Local": 25237,
+  "CodEPTCR": "SIN_3R_514_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/31\/2023",
   "ID_a": 1.227,
@@ -15140,6 +15375,7 @@
  {
   "PKResFinaisDRIS": 236,
   "CodInform_Local": 25238,
+  "CodEPTCR": "SIN_3R_515_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/03\/2023",
   "ID_a": 1.137,
@@ -15202,6 +15438,7 @@
  {
   "PKResFinaisDRIS": 237,
   "CodInform_Local": 25239,
+  "CodEPTCR": "SIN_3R_516_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/03\/2023",
   "ID_a": 0.797,
@@ -15260,6 +15497,7 @@
  {
   "PKResFinaisDRIS": 238,
   "CodInform_Local": 25240,
+  "CodEPTCR": "SIN_3R_517_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/31\/2023",
   "ID_a": 1.227,
@@ -15322,6 +15560,7 @@
  {
   "PKResFinaisDRIS": 239,
   "CodInform_Local": 25241,
+  "CodEPTCR": "SIN_3R_518_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/31\/2023",
   "ID_a": 1.345,
@@ -15384,6 +15623,7 @@
  {
   "PKResFinaisDRIS": 240,
   "CodInform_Local": 25242,
+  "CodEPTCR": "SIN_3R_519_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.288,
@@ -15446,6 +15686,7 @@
  {
   "PKResFinaisDRIS": 241,
   "CodInform_Local": 25243,
+  "CodEPTCR": "SIN_3R_520_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.337,
@@ -15508,6 +15749,7 @@
  {
   "PKResFinaisDRIS": 242,
   "CodInform_Local": 25244,
+  "CodEPTCR": "SIN_3R_521_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.29,
@@ -15570,6 +15812,7 @@
  {
   "PKResFinaisDRIS": 243,
   "CodInform_Local": 25245,
+  "CodEPTCR": "SIN_3R_522_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.288,
@@ -15632,6 +15875,7 @@
  {
   "PKResFinaisDRIS": 244,
   "CodInform_Local": 25246,
+  "CodEPTCR": "SIN_3R_523_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.288,
@@ -15694,6 +15938,7 @@
  {
   "PKResFinaisDRIS": 245,
   "CodInform_Local": 25247,
+  "CodEPTCR": "SIN_3R_524_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.285,
@@ -15756,6 +16001,7 @@
  {
   "PKResFinaisDRIS": 246,
   "CodInform_Local": 25248,
+  "CodEPTCR": "SIN_3R_525_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.282,
@@ -15818,6 +16064,7 @@
  {
   "PKResFinaisDRIS": 247,
   "CodInform_Local": 25249,
+  "CodEPTCR": "SIN_3R_526_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.285,
@@ -15880,6 +16127,7 @@
  {
   "PKResFinaisDRIS": 248,
   "CodInform_Local": 25250,
+  "CodEPTCR": "SIN_3R_527_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/15\/2023",
   "ID_a": 1.279,
@@ -15942,6 +16190,7 @@
  {
   "PKResFinaisDRIS": 249,
   "CodInform_Local": 25251,
+  "CodEPTCR": "SIN_3R_528_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.31,
@@ -16004,6 +16253,7 @@
  {
   "PKResFinaisDRIS": 250,
   "CodInform_Local": 25252,
+  "CodEPTCR": "SIN_3R_529_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/30\/2023",
   "ID_a": 1.23,
@@ -16066,6 +16316,7 @@
  {
   "PKResFinaisDRIS": 251,
   "CodInform_Local": 25253,
+  "CodEPTCR": "SIN_3R_530_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/30\/2023",
   "ID_a": 1.118,
@@ -16128,6 +16379,7 @@
  {
   "PKResFinaisDRIS": 252,
   "CodInform_Local": 25254,
+  "CodEPTCR": "SIN_3R_531_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/30\/2023",
   "ID_a": 1.003,
@@ -16190,6 +16442,7 @@
  {
   "PKResFinaisDRIS": 253,
   "CodInform_Local": 25255,
+  "CodEPTCR": "SIN_3R_532_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/30\/2023",
   "ID_a": 1.236,
@@ -16252,6 +16505,7 @@
  {
   "PKResFinaisDRIS": 254,
   "CodInform_Local": 25256,
+  "CodEPTCR": "SIN_3R_533_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/30\/2023",
   "ID_a": 1.249,
@@ -16314,6 +16568,7 @@
  {
   "PKResFinaisDRIS": 255,
   "CodInform_Local": 25257,
+  "CodEPTCR": "SIN_3R_534_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.307,
@@ -16376,6 +16631,7 @@
  {
   "PKResFinaisDRIS": 256,
   "CodInform_Local": 25258,
+  "CodEPTCR": "SIN_3R_535_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.304,
@@ -16438,6 +16694,7 @@
  {
   "PKResFinaisDRIS": 257,
   "CodInform_Local": 25259,
+  "CodEPTCR": "SIN_3R_536_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/27\/2023",
   "ID_a": 1.074,
@@ -16500,6 +16757,7 @@
  {
   "PKResFinaisDRIS": 258,
   "CodInform_Local": 25260,
+  "CodEPTCR": "SIN_3R_537_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/27\/2023",
   "ID_a": 1.299,
@@ -16562,6 +16820,7 @@
  {
   "PKResFinaisDRIS": 259,
   "CodInform_Local": 25261,
+  "CodEPTCR": "SIN_3R_538_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/27\/2023",
   "ID_a": 1.296,
@@ -16624,6 +16883,7 @@
  {
   "PKResFinaisDRIS": 260,
   "CodInform_Local": 25262,
+  "CodEPTCR": "SIN_3R_539_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/27\/2023",
   "ID_a": 1.055,
@@ -16686,6 +16946,7 @@
  {
   "PKResFinaisDRIS": 261,
   "CodInform_Local": 25263,
+  "CodEPTCR": "SIN_3R_540_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/27\/2023",
   "ID_a": 1.293,
@@ -16748,6 +17009,7 @@
  {
   "PKResFinaisDRIS": 262,
   "CodInform_Local": 25264,
+  "CodEPTCR": "SIN_3R_541_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.268,
@@ -16810,6 +17072,7 @@
  {
   "PKResFinaisDRIS": 263,
   "CodInform_Local": 25265,
+  "CodEPTCR": "SIN_3R_542_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.293,
@@ -16872,6 +17135,7 @@
  {
   "PKResFinaisDRIS": 264,
   "CodInform_Local": 25266,
+  "CodEPTCR": "SIN_3R_543_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/30\/2023",
   "ID_a": 1.134,
@@ -16934,6 +17198,7 @@
  {
   "PKResFinaisDRIS": 265,
   "CodInform_Local": 25267,
+  "CodEPTCR": "SIN_3R_544_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/30\/2023",
   "ID_a": 1.137,
@@ -16996,6 +17261,7 @@
  {
   "PKResFinaisDRIS": 266,
   "CodInform_Local": 25268,
+  "CodEPTCR": "SIN_3R_545_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/30\/2023",
   "ID_a": 1.005,
@@ -17058,6 +17324,7 @@
  {
   "PKResFinaisDRIS": 267,
   "CodInform_Local": 25269,
+  "CodEPTCR": "SIN_3R_546_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/30\/2023",
   "ID_a": 0.986,
@@ -17116,6 +17383,7 @@
  {
   "PKResFinaisDRIS": 268,
   "CodInform_Local": 25270,
+  "CodEPTCR": "SIN_3R_547_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.052,
@@ -17178,6 +17446,7 @@
  {
   "PKResFinaisDRIS": 269,
   "CodInform_Local": 25271,
+  "CodEPTCR": "SIN_3R_548_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.077,
@@ -17240,6 +17509,7 @@
  {
   "PKResFinaisDRIS": 270,
   "CodInform_Local": 25272,
+  "CodEPTCR": "SIN_3R_549_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.222,
@@ -17302,6 +17572,7 @@
  {
   "PKResFinaisDRIS": 271,
   "CodInform_Local": 25273,
+  "CodEPTCR": "SIN_3R_550_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.285,
@@ -17364,6 +17635,7 @@
  {
   "PKResFinaisDRIS": 272,
   "CodInform_Local": 25274,
+  "CodEPTCR": "SIN_3R_551_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/27\/2023",
   "ID_a": 1.279,
@@ -17426,6 +17698,7 @@
  {
   "PKResFinaisDRIS": 273,
   "CodInform_Local": 25275,
+  "CodEPTCR": "SIN_3R_552_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/27\/2023",
   "ID_a": 1.277,
@@ -17488,6 +17761,7 @@
  {
   "PKResFinaisDRIS": 274,
   "CodInform_Local": 25276,
+  "CodEPTCR": "SIN_3R_553_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/27\/2023",
   "ID_a": 1.274,
@@ -17550,6 +17824,7 @@
  {
   "PKResFinaisDRIS": 275,
   "CodInform_Local": 25277,
+  "CodEPTCR": "SIN_3R_554_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.266,
@@ -17612,6 +17887,7 @@
  {
   "PKResFinaisDRIS": 276,
   "CodInform_Local": 25278,
+  "CodEPTCR": "SIN_3R_555_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.247,
@@ -17674,6 +17950,7 @@
  {
   "PKResFinaisDRIS": 277,
   "CodInform_Local": 25279,
+  "CodEPTCR": "SIN_3R_556_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.077,
@@ -17736,6 +18013,7 @@
  {
   "PKResFinaisDRIS": 278,
   "CodInform_Local": 25280,
+  "CodEPTCR": "SIN_3R_557_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.055,
@@ -17798,6 +18076,7 @@
  {
   "PKResFinaisDRIS": 279,
   "CodInform_Local": 25281,
+  "CodEPTCR": "SIN_3R_558_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.022,
@@ -17860,6 +18139,7 @@
  {
   "PKResFinaisDRIS": 280,
   "CodInform_Local": 25282,
+  "CodEPTCR": "SIN_3R_559_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.019,
@@ -17922,6 +18202,7 @@
  {
   "PKResFinaisDRIS": 281,
   "CodInform_Local": 25283,
+  "CodEPTCR": "SIN_3R_560_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/29\/2023",
   "ID_a": 1.071,
@@ -17984,6 +18265,7 @@
  {
   "PKResFinaisDRIS": 282,
   "CodInform_Local": 25284,
+  "CodEPTCR": "SIN_3R_561_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.123,
@@ -18046,6 +18328,7 @@
  {
   "PKResFinaisDRIS": 283,
   "CodInform_Local": 25285,
+  "CodEPTCR": "SIN_3R_562_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/27\/2023",
   "ID_a": 1.247,
@@ -18108,6 +18391,7 @@
  {
   "PKResFinaisDRIS": 284,
   "CodInform_Local": 25286,
+  "CodEPTCR": "SIN_3R_563_1_1_1",
   "Empresa": "SINOBRAS FLORESTAL LTDA",
   "Dt_Col": "03\/28\/2023",
   "ID_a": 1.107,
@@ -18167,8 +18451,8 @@
   "IMA_Ref": 14.6457816441535,
   "IDN": 1.00382039213365
  }
-],  
-
+],
+  
  "RefNutricionais":[
   {
     "PKRefNutricionais": 1,
